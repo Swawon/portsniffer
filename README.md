@@ -6,9 +6,9 @@ Penetration testing (identifying vulnerable services)
 
 Network security audits (checking firewall rules)
 
-Ethical hacking (reconnaissance phase)
+Ethical hacking (reconnaissance phase)<br>
 <b>Requirements</b>
-Python 3.x
+Python 3.x,
 No external dependencies (uses built-in socket module)
 Setup & Execution
 Save the script as portsniffer.py.
