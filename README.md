@@ -7,7 +7,7 @@ Penetration testing (identifying vulnerable services)
 Network security audits (checking firewall rules)
 
 Ethical hacking (reconnaissance phase)
-<bRequirements</b>
+<b>Requirements</b>
 Python 3.x
 No external dependencies (uses built-in socket module)
 Setup & Execution
